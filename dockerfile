@@ -1,5 +1,5 @@
 FROM ubuntu:22.04
-ENV APP_NAME="vim-sample"
+ENV APP_NAME "viw-sample"
 
 RUN mkdir -p  /app
 RUN mkdir -p /var/empty/sshd
